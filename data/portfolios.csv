@@ -1,0 +1,101 @@
+client_id,asset_class,allocation_percent,value
+1,Equities,22.72,41756.28
+1,Fixed Income,24.72,45428.51
+1,Real Estate,12.71,23355.61
+1,Commodities,1.11,2037.62
+1,Cash,38.74,71188.97
+2,Equities,0.1,340.59
+2,Fixed Income,29.63,103941.82
+2,Real Estate,21.52,75475.96
+2,Commodities,22.89,80308.44
+2,Cash,25.87,90737.19
+3,Equities,30.25,110246.28
+3,Fixed Income,12.22,44512.75
+3,Real Estate,28.59,104195.09
+3,Commodities,22.01,80213.83
+3,Cash,6.92,25232.05
+4,Equities,2.08,1551.81
+4,Fixed Income,11.81,8802.3
+4,Real Estate,12.47,9294.44
+4,Commodities,41.46,30906.52
+4,Cash,32.18,23982.93
+5,Equities,10.25,15245.43
+5,Fixed Income,6.0,8934.09
+5,Real Estate,44.34,65979.78
+5,Commodities,23.5,34974.55
+5,Cash,15.91,23672.15
+6,Equities,42.38,209285.48
+6,Fixed Income,19.58,96672.51
+6,Real Estate,21.27,105030.94
+6,Commodities,16.04,79207.01
+6,Cash,0.74,3656.06
+7,Equities,4.38,11438.71
+7,Fixed Income,43.91,114800.65
+7,Real Estate,12.53,32751.22
+7,Commodities,16.09,42062.35
+7,Cash,23.09,60375.07
+8,Equities,11.18,43351.07
+8,Fixed Income,20.61,79869.16
+8,Real Estate,54.95,212984.01
+8,Commodities,10.13,39279.06
+8,Cash,3.12,12110.69
+9,Equities,24.97,101743.52
+9,Fixed Income,44.7,182112.99
+9,Real Estate,20.6,83942.59
+9,Commodities,7.37,30045.96
+9,Cash,2.35,9557.94
+10,Equities,7.13,33180.32
+10,Fixed Income,15.59,72526.5
+10,Real Estate,62.16,289172.77
+10,Commodities,11.35,52782.98
+10,Cash,3.77,17529.43
+11,Equities,12.68,13313.75
+11,Fixed Income,3.86,4055.8
+11,Real Estate,8.57,8998.73
+11,Commodities,18.45,19377.93
+11,Cash,56.44,59269.79
+12,Equities,11.54,7334.56
+12,Fixed Income,5.71,3629.9
+12,Real Estate,24.25,15409.66
+12,Commodities,21.06,13381.91
+12,Cash,37.44,23788.97
+13,Equities,7.34,36529.57
+13,Fixed Income,51.03,253912.12
+13,Real Estate,6.96,34620.67
+13,Commodities,13.04,64867.93
+13,Cash,21.64,107669.7
+14,Equities,2.18,2551.6
+14,Fixed Income,9.51,11139.76
+14,Real Estate,9.2,10782.62
+14,Commodities,38.68,45322.07
+14,Cash,40.43,47375.94
+15,Equities,16.24,65310.7
+15,Fixed Income,1.82,7321.91
+15,Real Estate,45.55,183219.26
+15,Commodities,33.83,136080.09
+15,Cash,2.56,10296.03
+16,Equities,10.79,22380.05
+16,Fixed Income,25.65,53200.94
+16,Real Estate,29.11,60369.2
+16,Commodities,19.3,40030.32
+16,Cash,15.14,31400.5
+17,Equities,6.3,26355.61
+17,Fixed Income,25.34,106047.79
+17,Real Estate,32.59,136358.27
+17,Commodities,6.17,25802.94
+17,Cash,29.61,123887.39
+18,Equities,21.42,103975.89
+18,Fixed Income,21.5,104322.38
+18,Real Estate,16.43,79749.39
+18,Commodities,2.03,9834.2
+18,Cash,38.62,187441.15
+19,Equities,15.78,68860.63
+19,Fixed Income,26.46,115477.09
+19,Real Estate,43.46,189641.94
+19,Commodities,8.77,38275.03
+19,Cash,5.53,24138.31
+20,Equities,21.25,25780.45
+20,Fixed Income,7.61,9226.25
+20,Real Estate,30.69,37222.15
+20,Commodities,5.67,6883.27
+20,Cash,34.78,42182.88

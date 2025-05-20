@@ -1,0 +1,5 @@
+streamlit
+pandas
+git+https://github.com/robertmartin8/PyPortfolioOpt.git
+
+matplotlib

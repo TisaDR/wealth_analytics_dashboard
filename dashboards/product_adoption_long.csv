@@ -1,0 +1,21 @@
+location,asset_class,value
+Montreal,Cash,375242.96
+Ottawa,Cash,166986.75
+Toronto,Cash,183157.18
+Vancouver,Cash,270106.25
+Montreal,Commodities,297336.89
+Ottawa,Commodities,294543.76
+Toronto,Commodities,45180.87
+Vancouver,Commodities,234612.49
+Montreal,Equities,543166.88
+Ottawa,Equities,219421.11
+Toronto,Equities,39669.36
+Vancouver,Equities,138274.94999999998
+Montreal,Fixed Income,684279.54
+Ottawa,Fixed Income,309376.68
+Toronto,Fixed Income,110103.59
+Vancouver,Fixed Income,322175.41
+Montreal,Real Estate,860235.74
+Ottawa,Real Estate,337444.68
+Toronto,Real Estate,145357.0
+Vancouver,Real Estate,415516.88
