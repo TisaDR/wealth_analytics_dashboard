@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: wealth-insights-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: wealth-insights
+  template:
+    metadata:
+      labels:
+        app: wealth-insights
+    spec:
+      containers:
+        - name: wealth-insights-container
+          image: wealth-insights-app  # 👈 Same name used in `docker build -t`
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8501  # Streamlit default
